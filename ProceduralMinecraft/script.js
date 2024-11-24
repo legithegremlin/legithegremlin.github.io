@@ -7,8 +7,6 @@ window.onload = function() {
             version.style.color = 'red';
           } else if (version.hasAttribute('green')) {
             version.style.color = 'green';
-          } else if (version.hasAttribute('gray')) {
-            version.style.color = 'gray';
           }
         });
 };
