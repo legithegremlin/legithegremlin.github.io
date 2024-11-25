@@ -41,6 +41,15 @@
       span[green] {
         color: lime;
       }
+
+      .stream-container {
+            float: right;
+            margin-left: 20px; /* Optional: adds space between the stream and text */
+            margin-bottom: 20px; /* Optional: adds space below the stream */
+        }
+        .content {
+            max-width: 800px; /* Optional: limit text width */
+        }
     </style>
   
   </head>
@@ -50,6 +59,15 @@
     <br>
     <h2>Versions List:</h2>
     <p>
+      <div class="stream-container">
+            <iframe
+                src="https://player.twitch.tv/?channel=your_twitch_username"
+                height="720"
+                width="1280"
+                frameborder="0"
+                allowfullscreen="true">
+            </iframe>
+      </div>
       <span green>Indev 1.0</span><br>
       <span>Infdev 1.0</span><br>
       <span>Alpha 1.0.0</span><br>
