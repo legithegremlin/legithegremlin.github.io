@@ -1,0 +1,62 @@
+
+zombie_08.png
+size: 473,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+08_st
+  rotate: false
+  xy: 322, 7
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+08_tou
+  rotate: false
+  xy: 392, 22
+  size: 79, 83
+  orig: 79, 85
+  offset: 0, 2
+  index: -1
+08_tou2
+  rotate: true
+  xy: 301, 26
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+08_ys
+  rotate: false
+  xy: 125, 2
+  size: 130, 47
+  orig: 130, 48
+  offset: 0, 1
+  index: -1
+08_yt
+  rotate: false
+  xy: 257, 4
+  size: 42, 59
+  orig: 42, 60
+  offset: 0, 1
+  index: -1
+08_zs
+  rotate: false
+  xy: 2, 7
+  size: 121, 98
+  orig: 121, 98
+  offset: 0, 0
+  index: -1
+08_zt
+  rotate: true
+  xy: 256, 65
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 125, 51
+  size: 129, 54
+  orig: 133, 58
+  offset: 2, 2
+  index: -1

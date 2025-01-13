@@ -1,0 +1,83 @@
+
+effect_hit_12.png
+size: 471,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12_effect1
+  rotate: false
+  xy: 413, 8
+  size: 37, 28
+  orig: 39, 30
+  offset: 1, 1
+  index: -1
+12_effect10
+  rotate: false
+  xy: 324, 2
+  size: 87, 92
+  orig: 89, 94
+  offset: 1, 1
+  index: -1
+12_effect2
+  rotate: true
+  xy: 220, 23
+  size: 122, 102
+  orig: 124, 104
+  offset: 1, 1
+  index: -1
+12_effect3
+  rotate: true
+  xy: 2, 2
+  size: 134, 116
+  orig: 136, 118
+  offset: 1, 1
+  index: -1
+12_effect4
+  rotate: true
+  xy: 2, 138
+  size: 137, 120
+  orig: 139, 122
+  offset: 1, 1
+  index: -1
+12_effect5
+  rotate: false
+  xy: 347, 96
+  size: 98, 88
+  orig: 100, 90
+  offset: 1, 1
+  index: -1
+12_effect6
+  rotate: false
+  xy: 240, 162
+  size: 105, 113
+  orig: 107, 115
+  offset: 1, 1
+  index: -1
+12_effect7
+  rotate: false
+  xy: 124, 147
+  size: 114, 128
+  orig: 116, 130
+  offset: 1, 1
+  index: -1
+12_effect8
+  rotate: false
+  xy: 120, 3
+  size: 98, 133
+  orig: 100, 135
+  offset: 1, 1
+  index: -1
+12_effect9
+  rotate: true
+  xy: 347, 186
+  size: 89, 108
+  orig: 91, 110
+  offset: 1, 1
+  index: -1
+guang
+  rotate: false
+  xy: 413, 38
+  size: 56, 56
+  orig: 62, 62
+  offset: 3, 3
+  index: -1

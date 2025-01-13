@@ -1,0 +1,34 @@
+
+zombie_14_effect.png
+size: 509,571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14_effect1
+  rotate: false
+  xy: 2, 2
+  size: 255, 280
+  orig: 257, 282
+  offset: 1, 1
+  index: -1
+14_effect2
+  rotate: false
+  xy: 2, 284
+  size: 256, 285
+  orig: 258, 287
+  offset: 1, 1
+  index: -1
+14_effect3
+  rotate: false
+  xy: 260, 286
+  size: 247, 283
+  orig: 249, 285
+  offset: 1, 1
+  index: -1
+14_effect4
+  rotate: false
+  xy: 259, 4
+  size: 244, 278
+  orig: 246, 280
+  offset: 1, 1
+  index: -1

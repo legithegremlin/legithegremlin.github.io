@@ -1,0 +1,118 @@
+
+hero_25.png
+size: 151,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+25_L_yp
+  rotate: false
+  xy: 132, 30
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+25_R_yp
+  rotate: true
+  xy: 111, 44
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+25_st1
+  rotate: false
+  xy: 2, 43
+  size: 91, 33
+  orig: 91, 34
+  offset: 0, 0
+  index: -1
+25_st2
+  rotate: false
+  xy: 59, 26
+  size: 71, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+25_tx1
+  rotate: true
+  xy: 66, 19
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+25_tx2
+  rotate: true
+  xy: 126, 44
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+25_tx3
+  rotate: false
+  xy: 112, 57
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+25_tx4
+  rotate: false
+  xy: 132, 56
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+25_tx5
+  rotate: true
+  xy: 64, 2
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+25_tx6
+  rotate: false
+  xy: 95, 57
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+25_tx7
+  rotate: false
+  xy: 95, 43
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+25_tx8
+  rotate: false
+  xy: 59, 19
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+25_yan
+  rotate: false
+  xy: 46, 4
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+25_zhuan1
+  rotate: true
+  xy: 88, 7
+  size: 17, 61
+  orig: 18, 61
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 2, 2
+  size: 13, 42
+  orig: 13, 42
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 17
+  size: 55, 24
+  orig: 57, 26
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,153 @@
+
+zombie_09.png
+size: 522,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+08前右腿
+  rotate: true
+  xy: 423, 59
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+08后右腿
+  rotate: true
+  xy: 423, 59
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+08前左腿
+  rotate: true
+  xy: 421, 7
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+后左腿
+  rotate: true
+  xy: 421, 7
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+08右上眼皮
+  rotate: true
+  xy: 423, 37
+  size: 20, 36
+  orig: 23, 38
+  offset: 1, 1
+  index: -1
+08右手
+  rotate: true
+  xy: 461, 130
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+08右手掌
+  rotate: false
+  xy: 296, 58
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+08右眼
+  rotate: false
+  xy: 360, 5
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+08右耳
+  rotate: true
+  xy: 249, 47
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+08头1
+  rotate: true
+  xy: 380, 89
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+08头2
+  rotate: true
+  xy: 296, 19
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+08屁股
+  rotate: false
+  xy: 318, 9
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+08左上眼皮
+  rotate: false
+  xy: 249, 5
+  size: 44, 40
+  orig: 46, 42
+  offset: 1, 1
+  index: -1
+08左手
+  rotate: true
+  xy: 461, 90
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+08左眼
+  rotate: false
+  xy: 378, 15
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+08左耳
+  rotate: true
+  xy: 378, 56
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+08狮尾
+  rotate: false
+  xy: 461, 21
+  size: 54, 67
+  orig: 54, 67
+  offset: 0, 0
+  index: -1
+08狮身
+  rotate: false
+  xy: 2, 2
+  size: 245, 161
+  orig: 245, 161
+  offset: 0, 0
+  index: -1
+08身体
+  rotate: false
+  xy: 323, 41
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 249, 109
+  size: 129, 54
+  orig: 133, 58
+  offset: 2, 2
+  index: -1
+shadow2
+  rotate: false
+  xy: 249, 75
+  size: 72, 32
+  orig: 74, 34
+  offset: 1, 1
+  index: -1

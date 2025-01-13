@@ -1,0 +1,146 @@
+
+hero_44.png
+size: 205,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+44_jiao1
+  rotate: true
+  xy: 106, 45
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+44_jiao2
+  rotate: true
+  xy: 2, 6
+  size: 14, 38
+  orig: 14, 38
+  offset: 0, 0
+  index: -1
+44_kou
+  rotate: false
+  xy: 106, 66
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+44_st
+  rotate: false
+  xy: 2, 60
+  size: 102, 143
+  orig: 102, 143
+  offset: 0, 0
+  index: -1
+44_tu
+  rotate: false
+  xy: 2, 22
+  size: 98, 36
+  orig: 98, 36
+  offset: 0, 0
+  index: -1
+44_ya1
+  rotate: true
+  xy: 153, 93
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+44_ya2
+  rotate: true
+  xy: 168, 154
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+44_ya3
+  rotate: false
+  xy: 42, 8
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+44_ya4
+  rotate: false
+  xy: 129, 12
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+44_ya5
+  rotate: false
+  xy: 102, 11
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+44_ya6
+  rotate: true
+  xy: 146, 71
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+44_yan1
+  rotate: false
+  xy: 173, 82
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+44_yan2
+  rotate: false
+  xy: 157, 80
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+44_yz1
+  rotate: true
+  xy: 106, 91
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+44_yz2
+  rotate: false
+  xy: 106, 154
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+44_yz3
+  rotate: false
+  xy: 168, 170
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+44_yz4
+  rotate: true
+  xy: 153, 114
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+44_zui1
+  rotate: false
+  xy: 102, 23
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+44_zui2
+  rotate: false
+  xy: 133, 23
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 76, 9
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1

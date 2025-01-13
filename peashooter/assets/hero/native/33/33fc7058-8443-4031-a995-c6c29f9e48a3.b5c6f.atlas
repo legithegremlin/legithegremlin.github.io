@@ -1,0 +1,90 @@
+
+hero_65.png
+size: 156,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+65_bullet1
+  rotate: false
+  xy: 2, 6
+  size: 40, 38
+  orig: 42, 40
+  offset: 1, 1
+  index: -1
+65_bullet2
+  rotate: true
+  xy: 44, 9
+  size: 35, 41
+  orig: 37, 43
+  offset: 1, 1
+  index: -1
+65_bullet3
+  rotate: true
+  xy: 94, 59
+  size: 42, 32
+  orig: 44, 34
+  offset: 1, 1
+  index: -1
+65_shou1
+  rotate: true
+  xy: 61, 57
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+65_shou2
+  rotate: true
+  xy: 128, 36
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+65_shou3
+  rotate: true
+  xy: 127, 2
+  size: 32, 27
+  orig: 32, 28
+  offset: 0, 1
+  index: -1
+65_shou4
+  rotate: true
+  xy: 129, 130
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+65_shou5
+  rotate: true
+  xy: 129, 77
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+65_shou6
+  rotate: true
+  xy: 91, 3
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+65_st
+  rotate: true
+  xy: 2, 94
+  size: 89, 90
+  orig: 89, 90
+  offset: 0, 0
+  index: -1
+65_tou
+  rotate: true
+  xy: 2, 46
+  size: 46, 57
+  orig: 48, 59
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 94, 103
+  size: 80, 33
+  orig: 82, 35
+  offset: 1, 1
+  index: -1

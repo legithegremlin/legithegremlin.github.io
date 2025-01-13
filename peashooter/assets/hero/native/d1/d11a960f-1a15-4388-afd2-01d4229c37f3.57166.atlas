@@ -1,0 +1,132 @@
+
+effect_compose.png
+size: 579,1056
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 218, 387
+  size: 184, 209
+  orig: 334, 377
+  offset: 73, 26
+  index: -1
+2
+  rotate: true
+  xy: 218, 598
+  size: 187, 213
+  orig: 334, 377
+  offset: 72, 25
+  index: -1
+3
+  rotate: false
+  xy: 2, 523
+  size: 210, 258
+  orig: 334, 377
+  offset: 73, 25
+  index: -1
+4
+  rotate: false
+  xy: 2, 783
+  size: 213, 271
+  orig: 334, 377
+  offset: 71, 25
+  index: -1
+5
+  rotate: false
+  xy: 217, 787
+  size: 214, 267
+  orig: 334, 377
+  offset: 70, 28
+  index: -1
+6
+  rotate: false
+  xy: 2, 267
+  size: 214, 254
+  orig: 334, 377
+  offset: 69, 38
+  index: -1
+7
+  rotate: false
+  xy: 2, 47
+  size: 211, 218
+  orig: 334, 377
+  offset: 71, 42
+  index: -1
+8
+  rotate: true
+  xy: 218, 275
+  size: 110, 197
+  orig: 334, 377
+  offset: 73, 48
+  index: -1
+c1
+  rotate: true
+  xy: 433, 741
+  size: 137, 140
+  orig: 221, 217
+  offset: 33, 57
+  index: -1
+c10
+  rotate: false
+  xy: 433, 581
+  size: 144, 158
+  orig: 221, 217
+  offset: 34, 30
+  index: -1
+c11
+  rotate: false
+  xy: 475, 14
+  size: 100, 100
+  orig: 221, 217
+  offset: 60, 53
+  index: -1
+c2
+  rotate: false
+  xy: 218, 152
+  size: 153, 121
+  orig: 221, 217
+  offset: 33, 45
+  index: -1
+c3
+  rotate: true
+  xy: 404, 404
+  size: 175, 155
+  orig: 221, 217
+  offset: 9, 25
+  index: -1
+c4
+  rotate: true
+  xy: 433, 880
+  size: 174, 138
+  orig: 221, 217
+  offset: 28, 27
+  index: -1
+c5
+  rotate: false
+  xy: 417, 242
+  size: 154, 160
+  orig: 221, 217
+  offset: 27, 25
+  index: -1
+c6
+  rotate: false
+  xy: 215, 12
+  size: 142, 138
+  orig: 221, 217
+  offset: 37, 39
+  index: -1
+c7
+  rotate: false
+  xy: 359, 2
+  size: 114, 112
+  orig: 221, 217
+  offset: 51, 48
+  index: -1
+c9
+  rotate: false
+  xy: 373, 116
+  size: 136, 124
+  orig: 221, 217
+  offset: 36, 37
+  index: -1

@@ -1,0 +1,83 @@
+
+hero_38.png
+size: 267,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+38_bmh1
+  rotate: false
+  xy: 203, 8
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+38_bmh2
+  rotate: false
+  xy: 160, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+38_st1
+  rotate: false
+  xy: 2, 41
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+38_st2
+  rotate: false
+  xy: 101, 55
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+38_st3
+  rotate: false
+  xy: 2, 3
+  size: 96, 36
+  orig: 96, 36
+  offset: 0, 0
+  index: -1
+38_wq1
+  rotate: true
+  xy: 101, 5
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+38_wq2
+  rotate: true
+  xy: 166, 26
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+38_yan1
+  rotate: false
+  xy: 180, 6
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+38_yz
+  rotate: true
+  xy: 166, 94
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+38_zui
+  rotate: true
+  xy: 257, 127
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 236, 23
+  size: 69, 29
+  orig: 71, 31
+  offset: 1, 1
+  index: -1

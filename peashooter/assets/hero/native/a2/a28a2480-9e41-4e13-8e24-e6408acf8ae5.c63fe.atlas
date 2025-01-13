@@ -1,0 +1,132 @@
+
+hero_16.png
+size: 442,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16_1_Lyan1
+  rotate: true
+  xy: 359, 8
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+16_1_Ryan1
+  rotate: false
+  xy: 389, 9
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+16_1_st
+  rotate: true
+  xy: 2, 9
+  size: 83, 121
+  orig: 83, 121
+  offset: 0, 0
+  index: -1
+16_1_zui
+  rotate: false
+  xy: 282, 7
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+16_2_Lyan1
+  rotate: false
+  xy: 359, 37
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+16_2_Lyan2
+  rotate: false
+  xy: 242, 2
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+16_2_Ryan1
+  rotate: false
+  xy: 420, 50
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+16_2_Ryan2
+  rotate: false
+  xy: 266, 2
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+16_2_st
+  rotate: true
+  xy: 125, 12
+  size: 80, 115
+  orig: 80, 118
+  offset: 0, 0
+  index: -1
+16_2_zui
+  rotate: false
+  xy: 408, 2
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+16_3_Lyan1
+  rotate: false
+  xy: 390, 37
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+16_3_Lyan2
+  rotate: false
+  xy: 416, 74
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+16_3_Ryan1
+  rotate: false
+  xy: 408, 13
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+16_3_han
+  rotate: true
+  xy: 2, 3
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+16_3_st
+  rotate: true
+  xy: 242, 15
+  size: 77, 115
+  orig: 77, 118
+  offset: 0, 0
+  index: -1
+16_3_zui
+  rotate: true
+  xy: 427, 29
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+16_ok
+  rotate: true
+  xy: 428, 10
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 359, 68
+  size: 55, 24
+  orig: 57, 26
+  offset: 1, 1
+  index: -1

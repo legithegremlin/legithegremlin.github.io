@@ -1,0 +1,146 @@
+
+hero_55.png
+size: 507,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+55_L_dao
+  rotate: false
+  xy: 431, 154
+  size: 31, 113
+  orig: 31, 113
+  offset: 0, 0
+  index: -1
+55_L_er
+  rotate: false
+  xy: 464, 22
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+55_L_shou
+  rotate: false
+  xy: 78, 2
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+55_L_tui1
+  rotate: false
+  xy: 420, 66
+  size: 37, 71
+  orig: 38, 71
+  offset: 0, 0
+  index: -1
+55_L_tui2
+  rotate: false
+  xy: 420, 3
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+55_L_ya
+  rotate: false
+  xy: 219, 97
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+55_R_dao
+  rotate: true
+  xy: 2, 30
+  size: 24, 110
+  orig: 24, 110
+  offset: 0, 0
+  index: -1
+55_R_er
+  rotate: false
+  xy: 464, 163
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+55_R_shou
+  rotate: false
+  xy: 54, 2
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+55_R_tui1
+  rotate: false
+  xy: 459, 86
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+55_R_tui2
+  rotate: true
+  xy: 2, 5
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+55_R_ya
+  rotate: false
+  xy: 431, 141
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+55_st
+  rotate: true
+  xy: 114, 4
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+55_tou
+  rotate: false
+  xy: 464, 48
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+55_tx0
+  rotate: true
+  xy: 241, 9
+  size: 128, 177
+  orig: 208, 222
+  offset: 45, 20
+  index: -1
+55_tx1
+  rotate: false
+  xy: 241, 139
+  size: 188, 128
+  orig: 193, 133
+  offset: 4, 2
+  index: -1
+55_tx2
+  rotate: false
+  xy: 2, 111
+  size: 237, 156
+  orig: 242, 166
+  offset: 3, 3
+  index: -1
+55_tx3
+  rotate: false
+  xy: 2, 56
+  size: 215, 53
+  orig: 221, 59
+  offset: 3, 2
+  index: -1
+55_wei
+  rotate: false
+  xy: 198, 10
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 464, 187
+  size: 80, 34
+  orig: 84, 38
+  offset: 2, 2
+  index: -1

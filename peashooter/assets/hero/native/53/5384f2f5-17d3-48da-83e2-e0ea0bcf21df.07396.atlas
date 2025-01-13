@@ -1,0 +1,76 @@
+
+hero_07.png
+size: 363,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+07_L_yan1
+  rotate: false
+  xy: 327, 140
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+07_R_yan1
+  rotate: false
+  xy: 348, 149
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+07_R_yan2
+  rotate: true
+  xy: 348, 139
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+07_bullet
+  rotate: true
+  xy: 266, 9
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+07_st1
+  rotate: false
+  xy: 2, 2
+  size: 206, 200
+  orig: 206, 200
+  offset: 0, 0
+  index: -1
+07_st2
+  rotate: true
+  xy: 314, 54
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+07_st3
+  rotate: false
+  xy: 210, 135
+  size: 115, 67
+  orig: 115, 67
+  offset: 0, 0
+  index: -1
+07_st4
+  rotate: true
+  xy: 266, 47
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+07_yan1
+  rotate: false
+  xy: 327, 168
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 210, 5
+  size: 128, 54
+  orig: 134, 60
+  offset: 3, 3
+  index: -1

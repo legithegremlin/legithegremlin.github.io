@@ -1,0 +1,153 @@
+
+hero_53.png
+size: 768,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03_L_yan
+  rotate: true
+  xy: 736, 39
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+03_R_yan
+  rotate: false
+  xy: 675, 2
+  size: 11, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+03_st1
+  rotate: true
+  xy: 176, 2
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+03_st2
+  rotate: false
+  xy: 553, 60
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+03_tou
+  rotate: false
+  xy: 345, 2
+  size: 43, 53
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+03_tx1
+  rotate: false
+  xy: 176, 53
+  size: 140, 87
+  orig: 147, 91
+  offset: 2, 2
+  index: -1
+03_tx2
+  rotate: true
+  xy: 2, 6
+  size: 134, 86
+  orig: 142, 90
+  offset: 4, 2
+  index: -1
+03_tx3
+  rotate: true
+  xy: 90, 9
+  size: 131, 84
+  orig: 143, 91
+  offset: 7, 4
+  index: -1
+03_tx4
+  rotate: true
+  xy: 318, 57
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+03_tx5
+  rotate: true
+  xy: 477, 58
+  size: 82, 74
+  orig: 83, 78
+  offset: 1, 1
+  index: -1
+03_tx6
+  rotate: true
+  xy: 398, 58
+  size: 82, 77
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+03_tx7
+  rotate: false
+  xy: 694, 62
+  size: 72, 78
+  orig: 83, 78
+  offset: 7, 0
+  index: -1
+03_tx8
+  rotate: false
+  xy: 628, 60
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+03_tx9
+  rotate: true
+  xy: 288, 6
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+03_ys1
+  rotate: true
+  xy: 608, 3
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+03_ys2
+  rotate: true
+  xy: 529, 14
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+03_yt
+  rotate: true
+  xy: 465, 6
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+03_zs1
+  rotate: true
+  xy: 390, 3
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+03_zs2
+  rotate: true
+  xy: 675, 16
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+03_zt
+  rotate: true
+  xy: 230, 6
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 529, 3
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1

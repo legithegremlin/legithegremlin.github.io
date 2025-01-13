@@ -1,0 +1,41 @@
+
+hero_51.png
+size: 155,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_cao
+  rotate: true
+  xy: 133, 22
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+01_muzzle
+  rotate: true
+  xy: 88, 2
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+01_st
+  rotate: true
+  xy: 2, 28
+  size: 101, 84
+  orig: 101, 84
+  offset: 0, 0
+  index: -1
+01_tou
+  rotate: false
+  xy: 88, 49
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 133, 12
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1

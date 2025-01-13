@@ -1,0 +1,146 @@
+
+hero_35.png
+size: 157,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+35_dd
+  rotate: false
+  xy: 2, 217
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+35_di
+  rotate: false
+  xy: 48, 10
+  size: 23, 56
+  orig: 23, 56
+  offset: 0, 0
+  index: -1
+35_dj
+  rotate: false
+  xy: 73, 9
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+35_kz
+  rotate: false
+  xy: 2, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+35_tx1_1
+  rotate: true
+  xy: 110, 16
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+35_tx1_2
+  rotate: false
+  xy: 89, 44
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+35_tx1_3
+  rotate: false
+  xy: 94, 217
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+35_tx1_4
+  rotate: true
+  xy: 102, 174
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+35_tx1_5
+  rotate: true
+  xy: 102, 133
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+35_tx1_6
+  rotate: true
+  xy: 130, 48
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+35_wq1
+  rotate: false
+  xy: 62, 78
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+35_wq2
+  rotate: false
+  xy: 131, 20
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+35_yan1
+  rotate: false
+  xy: 73, 60
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+35_yan2
+  rotate: false
+  xy: 131, 2
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+35_yz1
+  rotate: false
+  xy: 2, 139
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+35_yz2
+  rotate: false
+  xy: 89, 89
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+35_yz3
+  rotate: false
+  xy: 2, 14
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+35_yz4
+  rotate: true
+  xy: 133, 86
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+35_yz5
+  rotate: false
+  xy: 2, 68
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 67, 140
+  size: 75, 33
+  orig: 77, 35
+  offset: 1, 1
+  index: -1

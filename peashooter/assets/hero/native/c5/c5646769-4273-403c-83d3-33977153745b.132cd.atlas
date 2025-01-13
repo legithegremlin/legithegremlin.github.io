@@ -1,0 +1,76 @@
+
+hero_64.png
+size: 467,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+07_L_yan1
+  rotate: true
+  xy: 435, 70
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+07_R_yan1
+  rotate: true
+  xy: 435, 62
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+07_R_yan2
+  rotate: false
+  xy: 446, 64
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+07_st1
+  rotate: false
+  xy: 249, 17
+  size: 127, 124
+  orig: 127, 124
+  offset: 0, 0
+  index: -1
+07_st2
+  rotate: false
+  xy: 413, 83
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+07_st3
+  rotate: false
+  xy: 378, 18
+  size: 71, 41
+  orig: 71, 41
+  offset: 0, 0
+  index: -1
+07_st4
+  rotate: false
+  xy: 413, 113
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+07_yan1
+  rotate: false
+  xy: 413, 61
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+bullet_64
+  rotate: true
+  xy: 2, 2
+  size: 139, 245
+  orig: 139, 245
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 378, 61
+  size: 80, 33
+  orig: 82, 35
+  offset: 1, 1
+  index: -1

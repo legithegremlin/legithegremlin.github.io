@@ -1,0 +1,97 @@
+
+hero_37.png
+size: 209,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+37_bds
+  rotate: false
+  xy: 115, 222
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+37_bdx
+  rotate: false
+  xy: 28, 223
+  size: 60, 12
+  orig: 60, 12
+  offset: 0, 0
+  index: -1
+37_st1
+  rotate: true
+  xy: 2, 64
+  size: 51, 194
+  orig: 51, 194
+  offset: 0, 0
+  index: -1
+37_st2
+  rotate: true
+  xy: 2, 2
+  size: 60, 203
+  orig: 60, 203
+  offset: 0, 0
+  index: -1
+37_tx1_1
+  rotate: true
+  xy: 119, 117
+  size: 40, 68
+  orig: 42, 72
+  offset: 1, 2
+  index: -1
+37_tx1_2
+  rotate: true
+  xy: 2, 187
+  size: 34, 52
+  orig: 37, 56
+  offset: 2, 2
+  index: -1
+37_tx1_3
+  rotate: true
+  xy: 138, 159
+  size: 36, 69
+  orig: 38, 73
+  offset: 1, 2
+  index: -1
+37_tx1_4
+  rotate: true
+  xy: 51, 146
+  size: 38, 66
+  orig: 40, 69
+  offset: 1, 2
+  index: -1
+37_tx1_5
+  rotate: true
+  xy: 165, 197
+  size: 38, 40
+  orig: 42, 43
+  offset: 2, 2
+  index: -1
+37_tx1_6
+  rotate: true
+  xy: 2, 148
+  size: 37, 47
+  orig: 39, 51
+  offset: 1, 2
+  index: -1
+37_yan1
+  rotate: false
+  xy: 90, 223
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+37_yan2
+  rotate: false
+  xy: 2, 230
+  size: 24, 5
+  orig: 24, 5
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 56, 186
+  size: 80, 34
+  orig: 84, 38
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,83 @@
+
+hero_03.png
+size: 396,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03_mei
+  rotate: true
+  xy: 308, 14
+  size: 52, 14
+  orig: 52, 14
+  offset: 0, 0
+  index: -1
+03_st
+  rotate: true
+  xy: 233, 11
+  size: 23, 73
+  orig: 23, 73
+  offset: 0, 0
+  index: -1
+03_tou
+  rotate: false
+  xy: 2, 7
+  size: 121, 132
+  orig: 121, 132
+  offset: 0, 0
+  index: -1
+03_tou2
+  rotate: false
+  xy: 272, 68
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+03_wq
+  rotate: true
+  xy: 183, 36
+  size: 103, 87
+  orig: 103, 87
+  offset: 0, 0
+  index: -1
+03_yan1
+  rotate: false
+  xy: 183, 4
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+03_yan2
+  rotate: false
+  xy: 251, 3
+  size: 57, 6
+  orig: 57, 6
+  offset: 0, 0
+  index: -1
+03_yz1
+  rotate: true
+  xy: 344, 92
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+03_yz2
+  rotate: false
+  xy: 324, 8
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+03_zui
+  rotate: false
+  xy: 233, 2
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 125, 7
+  size: 132, 56
+  orig: 136, 60
+  offset: 2, 2
+  index: -1

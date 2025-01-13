@@ -1,0 +1,104 @@
+
+hero_43.png
+size: 182,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+43_chi
+  rotate: false
+  xy: 106, 23
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+43_gen
+  rotate: true
+  xy: 2, 15
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+43_kou
+  rotate: false
+  xy: 62, 71
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+43_tou
+  rotate: false
+  xy: 2, 57
+  size: 58, 123
+  orig: 58, 123
+  offset: 0, 0
+  index: -1
+43_tou2
+  rotate: true
+  xy: 62, 123
+  size: 57, 103
+  orig: 57, 103
+  offset: 0, 0
+  index: -1
+43_yan1
+  rotate: false
+  xy: 134, 30
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+43_yan2
+  rotate: true
+  xy: 164, 21
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+43_yc1
+  rotate: false
+  xy: 131, 52
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+43_yc2
+  rotate: false
+  xy: 135, 73
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+43_yz1
+  rotate: false
+  xy: 102, 88
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+43_yz2
+  rotate: true
+  xy: 106, 52
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+43_yz3
+  rotate: false
+  xy: 135, 95
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+43_yz4
+  rotate: false
+  xy: 106, 5
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 76, 4
+  size: 65, 28
+  orig: 67, 30
+  offset: 1, 1
+  index: -1

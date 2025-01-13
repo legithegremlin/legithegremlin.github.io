@@ -1,0 +1,146 @@
+
+hero_62.png
+size: 745,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+62_st1
+  rotate: true
+  xy: 683, 50
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+62_st2
+  rotate: true
+  xy: 625, 49
+  size: 101, 56
+  orig: 101, 56
+  offset: 0, 0
+  index: -1
+62_st3
+  rotate: true
+  xy: 625, 5
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+62_tf1
+  rotate: true
+  xy: 527, 8
+  size: 15, 29
+  orig: 16, 29
+  offset: 1, 0
+  index: -1
+62_tf2
+  rotate: true
+  xy: 371, 113
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+62_tou
+  rotate: false
+  xy: 2, 4
+  size: 99, 103
+  orig: 99, 103
+  offset: 0, 0
+  index: -1
+62_tx0
+  rotate: true
+  xy: 675, 11
+  size: 36, 48
+  orig: 39, 52
+  offset: 1, 2
+  index: -1
+62_tx1_1
+  rotate: true
+  xy: 371, 136
+  size: 131, 113
+  orig: 139, 127
+  offset: 5, 7
+  index: -1
+62_tx1_10
+  rotate: false
+  xy: 103, 5
+  size: 142, 102
+  orig: 151, 116
+  offset: 5, 7
+  index: -1
+62_tx1_2
+  rotate: true
+  xy: 398, 3
+  size: 131, 113
+  orig: 139, 127
+  offset: 5, 7
+  index: -1
+62_tx1_3
+  rotate: false
+  xy: 606, 152
+  size: 111, 115
+  orig: 121, 127
+  offset: 5, 6
+  index: -1
+62_tx1_4
+  rotate: false
+  xy: 513, 25
+  size: 110, 117
+  orig: 120, 128
+  offset: 5, 6
+  index: -1
+62_tx1_5
+  rotate: false
+  xy: 486, 144
+  size: 118, 123
+  orig: 124, 130
+  offset: 3, 3
+  index: -1
+62_tx1_6
+  rotate: true
+  xy: 125, 112
+  size: 155, 121
+  orig: 168, 128
+  offset: 6, 4
+  index: -1
+62_tx1_7
+  rotate: true
+  xy: 248, 112
+  size: 155, 121
+  orig: 168, 128
+  offset: 6, 4
+  index: -1
+62_tx1_8
+  rotate: true
+  xy: 2, 109
+  size: 158, 121
+  orig: 167, 133
+  offset: 5, 6
+  index: -1
+62_tx1_9
+  rotate: false
+  xy: 247, 2
+  size: 149, 108
+  orig: 158, 121
+  offset: 5, 6
+  index: -1
+62_wq
+  rotate: true
+  xy: 683, 86
+  size: 64, 52
+  orig: 66, 54
+  offset: 1, 1
+  index: -1
+62_yyan
+  rotate: false
+  xy: 558, 8
+  size: 9, 15
+  orig: 11, 17
+  offset: 1, 1
+  index: -1
+62_zyan
+  rotate: true
+  xy: 513, 3
+  size: 20, 12
+  orig: 22, 14
+  offset: 1, 1
+  index: -1
