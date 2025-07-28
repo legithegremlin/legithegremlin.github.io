@@ -1,9 +1,9 @@
 :root {
   --primary: #000000;
-  --secondary: #550055;
-  --accent: #ff00ff;
-  --text: #ff00ff;
-  --highlight: #ffffff;
+  --secondary: #333333;
+  --accent: #ffffff;
+  --text: #ffffff;
+  --highlight: #555555;
 }
 
 * {
