@@ -207,13 +207,9 @@ section h2 {
 }
 
 .download-icon {
-  width: 70px;
-  height: 70px;
-  transition: transform 0.3s;
-}
-
-.download-link:hover .download-icon {
-  transform: scale(1.1);
+  width: 60px;
+  height: 60px;
+  font-size: 40px;
 }
 
 .download-link span {
