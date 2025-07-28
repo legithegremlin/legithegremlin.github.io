@@ -57,7 +57,13 @@
             const h = date.getHours().toString().padStart(2, "0");
             const m = date.getMinutes().toString().padStart(2, "0");
             const s = date.getSeconds().toString().padStart(2, "0");
-            timeStr = `[${h}:${m}:${s}] `;
+            timeStr = [$ {
+              h
+            }: $ {
+              m
+            }: $ {
+              s
+            }];
           }
           let crownHtml = "";
           if (data.crowned) {
@@ -69,7 +75,9 @@
           timestampSpan.textContent = timeStr;
           const strong = document.createElement("strong");
           strong.textContent = data.user;
-          const messageText = document.createTextNode(`: ${data.text}`);
+          const messageText = document.createTextNode(: $ {
+            data.text
+          });
           div.appendChild(timestampSpan);
           div.appendChild(strong);
           div.innerHTML += crownHtml;
@@ -79,21 +87,7 @@
         }
 
         function askCredentials() {
-          if (username) {
-            if (username.toLowerCase() === "legithegremlin") {
-              secret = prompt("Enter secret passphrase for LegiTheGremlin (leave blank if none):") || "";
-            } else {
-              secret = "";
-            }
-            socket.emit("join", {
-              username,
-              secret
-            });
-            return;
-          }
-          username = prompt("Enter your username") || "Anonymous";
-          setCookie("gremlinChatUsername", username);
-          if (username.toLowerCase() === "legithegremlin") {
+          if (username && username.toLowerCase() === "legithegremlin") {
             secret = getCookie("gremlinChatSecret");
             if (!secret) {
               secret = prompt("Enter secret passphrase for LegiTheGremlin:") || "";
@@ -104,38 +98,50 @@
             username,
             secret
           });
+          return;
         }
-        socket.on("join_error", (data) => {
-          alert(data.error);
-          setCookie("gremlinChatUsername", "", -1);
-          username = "";
-          askCredentials();
-        });
-        socket.on("message", (data) => {
-          appendMessage(data);
-        });
-        input.addEventListener("input", () => {
-          charCount.textContent = `${input.value.length} / 300`;
-        });
-        input.addEventListener("keydown", (event) => {
-          if (event.key === "Enter") {
-            event.preventDefault();
-            send();
-          }
-        });
-        sendButton.addEventListener("click", send);
-
-        function send() {
-          const msg = input.value.trim();
-          if (msg.length === 0) return;
-          socket.emit("chat", {
-            text: msg
-          });
-          input.value = "";
-          charCount.textContent = "0 / 300";
-          input.focus();
+        username = prompt("Enter your username") || "Anonymous";
+        setCookie("gremlinChatUsername", username);
+        if (username.toLowerCase() === "legithegremlin") {
+          secret = prompt("Enter secret passphrase for LegiTheGremlin (leave blank if none):") || "";
+        } else {
+          secret = "";
         }
+        socket.emit("join", {
+          username,
+          secret
+        });
+      }
+      socket.on("join_error", (data) => {
+        alert(data.error);
+        setCookie("gremlinChatUsername", "", -1);
+        username = "";
         askCredentials();
+      }); socket.on("message", (data) => {
+        appendMessage(data);
+      }); input.addEventListener("input", () => {
+        charCount.textContent = $ {
+          input.value.length
+        }
+        / 300;
+      }); input.addEventListener("keydown", (event) => {
+        if (event.key === "Enter") {
+          event.preventDefault();
+          send();
+        }
+      }); sendButton.addEventListener("click", send);
+
+      function send() {
+        const msg = input.value.trim();
+        if (msg.length === 0) return;
+        socket.emit("chat", {
+          text: msg
+        });
+        input.value = "";
+        charCount.textContent = "0 / 300";
+        input.focus();
+      }
+      askCredentials();
       });
     </script>
   </body>
