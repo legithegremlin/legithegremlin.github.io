@@ -41,12 +41,7 @@
         return null;
       }
       document.addEventListener("DOMContentLoaded", () => {
-        const io = new Server(server, {
-          cors: {
-            origin: "http://bridge.ve3.info:13231",
-            methods: ["GET", "POST"]
-          }
-        });
+        const socket = io("http://bridge.ve3.info:13231");
         let username = getCookie("gremlinChatUsername") || "";
         let secret = "";
         const chat = document.getElementById("chat");
@@ -66,7 +61,8 @@
           }
           let crownHtml = "";
           if (data.crowned) {
-            crownHtml = '<span class="crown" title="Gremlin Crown">👑</span>';
+            crownHtml = ' < span class = "crown"
+            title = "Gremlin Crown" > 👑 < /span>';
           }
           const timestampSpan = document.createElement("span");
           timestampSpan.className = "timestamp";
