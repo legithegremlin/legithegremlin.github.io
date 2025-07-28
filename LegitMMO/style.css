@@ -1,0 +1,246 @@
+:root {
+  --primary: #0a0a0a;
+  --secondary: #1a1a1a;
+  --accent: #2a2a2a;
+  --text: #e0e0e0;
+  --highlight: #00ff7f;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(rgba(10, 10, 10, 0.95), rgba(10, 10, 10, 0.95)),
+              linear-gradient(to right, var(--secondary) 1px, transparent 1px),
+              linear-gradient(to bottom, var(--secondary) 1px, transparent 1px);
+  background-color: var(--primary);
+  background-size: 100%, 50px 50px;
+  color: var(--text);
+  line-height: 1.6;
+}
+
+h1, h2 {
+  font-family: 'Orbitron', sans-serif;
+}
+
+a {
+  color: var(--highlight);
+  text-decoration: none;
+}
+
+header {
+  background-color: rgba(10, 10, 10, 0.8);
+  padding: 1rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  justify-content: center;
+  backdrop-filter: blur(5px);
+}
+
+.logo {
+  height: 50px;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.hero {
+  min-height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  position: relative;
+}
+
+.hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(0deg, rgba(10,10,10,1) 0%, rgba(10,10,10,0.3) 50%, rgba(10,10,10,1) 100%);
+  border-radius: 0 0 10px 10px;
+}
+
+.hero-content {
+  z-index: 2;
+  position: relative;
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+  margin-bottom: 1rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  max-width: 600px;
+  margin-inline: auto;
+}
+
+.cta-button {
+  background-color: var(--highlight);
+  color: var(--primary);
+  padding: 1rem 2rem;
+  font-weight: bold;
+  font-size: 1.1rem;
+  border-radius: 5px;
+  border: 2px solid var(--highlight);
+  transition: all 0.3s;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.cta-button:hover {
+  background-color: var(--text);
+  transform: scale(1.05);
+  border-color: var(--text);
+}
+
+section {
+  padding: 4rem 0;
+  text-align: center;
+}
+
+section h2 {
+  font-size: 2.5rem;
+  color: var(--highlight);
+  margin-bottom: 2rem;
+}
+
+#about p {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-size: 1.1rem;
+  background-color: var(--secondary);
+  border-left: 5px solid var(--highlight);
+  border-radius: 8px;
+  text-align: left;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+.feature-item {
+  background-color: var(--secondary);
+  padding: 2rem;
+  border-radius: 8px;
+  border: 1px solid var(--accent);
+  animation: fadeIn 0.5s ease forwards;
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.feature-item:nth-child(2) { animation-delay: 0.2s; }
+.feature-item:nth-child(3) { animation-delay: 0.4s; }
+
+.feature-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 20px rgba(0, 255, 127, 0.1);
+}
+
+.feature-icon {
+  width: 64px;
+  height: 64px;
+  margin-bottom: 1.5rem;
+}
+
+.feature-item h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.feature-item p {
+  opacity: 0.85;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.download-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.download-link {
+  background-color: var(--secondary);
+  border: 2px solid var(--accent);
+  padding: 1.5rem 2rem;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 8px;
+  transition: 0.3s;
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+}
+
+.download-link:nth-of-type(1) { animation-delay: 0.2s; }
+.download-link:nth-of-type(2) { animation-delay: 0.4s; }
+.download-link:nth-of-type(3) { animation-delay: 0.6s; }
+
+.download-link:hover {
+  transform: translateY(-5px);
+  border-color: var(--highlight);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+.download-icon {
+  width: 48px;
+  height: 48px;
+  transition: transform 0.3s;
+}
+
+.download-link:hover .download-icon {
+  transform: scale(1.1);
+}
+
+.download-link span {
+  color: var(--text);
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+footer {
+  padding: 2rem;
+  background-color: var(--secondary);
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--accent);
+  margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2.5rem;
+  }
+  .download-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .download-link {
+    width: 80%;
+    max-width: 300px;
+  }
+}
