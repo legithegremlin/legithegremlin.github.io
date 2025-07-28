@@ -61,7 +61,8 @@
           }
           let crownHtml = "";
           if (data.crowned) {
-            crownHtml = '<span class="crown" title="Gremlin Crown">👑</span>';
+            crownHtml = ' < span class = "crown"
+            title = "Gremlin Crown" > 👑 < /span>';
           }
           const timestampSpan = document.createElement("span");
           timestampSpan.className = "timestamp";
@@ -93,9 +94,11 @@
           username = prompt("Enter your username") || "Anonymous";
           setCookie("gremlinChatUsername", username);
           if (username.toLowerCase() === "legithegremlin") {
-            secret = prompt("Enter secret passphrase for LegiTheGremlin (leave blank if none):") || "";
-          } else {
-            secret = "";
+            secret = getCookie("gremlinChatSecret");
+            if (!secret) {
+              secret = prompt("Enter secret passphrase for LegiTheGremlin:") || "";
+              setCookie("gremlinChatSecret", secret);
+            }
           }
           socket.emit("join", {
             username,
