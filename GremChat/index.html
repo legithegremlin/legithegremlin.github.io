@@ -57,7 +57,7 @@
             const h = date.getHours().toString().padStart(2, "0");
             const m = date.getMinutes().toString().padStart(2, "0");
             const s = date.getSeconds().toString().padStart(2, "0");
-            timeStr = [${h}:${m}:${s}];
+            timeStr = `[${h}:${m}:${s}] `;
           }
           let crownHtml = "";
           if (data.crowned) {
