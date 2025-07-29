@@ -176,32 +176,25 @@ section h2 {
 }
 
 .download-link {
-  background-color: var(--secondary);
-  border: 2px solid var(--accent);
-  padding: 1.5rem 2rem;
-  width: 250px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
+  padding: 1.5rem 2rem;
+  width: 250px;
+  background-color: var(--secondary);
+  border: 2px solid var(--accent);
   border-radius: 8px;
-  transition: 0.3s;
-  opacity: 0;
-  animation: fadeIn 0.5s forwards;
+  transition: transform 0.05s ease, background-color 0.3s;
 }
 
-.download-link:nth-of-type(1) { animation-delay: 0.2s; }
-.download-link:nth-of-type(2) { animation-delay: 0.4s; }
-.download-link:nth-of-type(3) { animation-delay: 0.6s; }
-
-.download-link:hover {
-  box-shadow: 0 0 25px rgba(255, 255, 255, 1);
-  border-color: var(--highlight);
+.download-link:active {
+  transform: scale(0.9);
+  background-color: #151515;
 }
 
-.download-link:active,
-.cta-button:active {
-  transform: scale(0.95);
-  transition: transform 0.1s ease;
+.download-link * {
+  pointer-events: none;
 }
 
 .download-icon {
