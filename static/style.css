@@ -259,10 +259,9 @@ footer {
 
 .secondary-platforms {
   opacity: 0;
+  visibility: hidden;
   pointer-events: none;
-  max-height: 0;
-  overflow: hidden;
-  transition: opacity 0.5s ease, max-height 0.5s ease;
+  transition: opacity 0.5s ease;
 }
 
 .secondary-platforms.visible {
