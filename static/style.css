@@ -43,8 +43,9 @@ header {
   backdrop-filter: blur(5px);
 }
 
-.logo {
-  height: 50px;
+.header-text {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 2em;
 }
 
 main {
