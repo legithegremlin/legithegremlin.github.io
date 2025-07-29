@@ -312,6 +312,14 @@ footer {
   display: flex;
 }
 
+.download-container.secondary-platforms {
+  display: none;
+}
+
+.download-container.secondary-platforms.show {
+  display: flex;
+}
+
 .download-link.secondary {
   font-size: 0.95rem;
   padding: 1.2rem 1.8rem;
