@@ -1,4 +1,4 @@
-body{
+body {
   background-color: black;
 }
 
@@ -6,14 +6,14 @@ body{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 20px;
-  font-family: sans-serif;
-  color: #344154;
+  gap: 40px;
+  font-family: ui-monospace;
+  color: #fff;
 }
 
 .circle-wrapper {
-  width: 130px;
-  height: 130px;
+  width: 260px;
+  height: 260px;
   position: relative;
 }
 
@@ -25,31 +25,31 @@ svg {
 
 circle {
   fill: none;
-  stroke-width: 3;
+  stroke-width: 8;
 }
 
 .bg {
-  stroke: #ddd;
+  stroke: #111;
 }
 
 .fg {
-  stroke: #009B9D;
-  stroke-linecap: round;
+  stroke: #ffffff;
+  stroke-linecap: square;
 }
 
 .text-val {
   position: absolute;
-  top: 35%;
+  top: 25%;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 28px;
+  font-size: 56px;
   font-weight: bold;
 }
 
 .text-label {
   position: absolute;
-  top: 70%;
+  top: 60%;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 14px;
+  font-size: 28px;
 }
