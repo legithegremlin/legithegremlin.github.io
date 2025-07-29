@@ -198,6 +198,12 @@ section h2 {
   border-color: var(--highlight);
 }
 
+.download-link:active,
+.cta-button:active {
+  transform: scale(0.95);
+  transition: transform 0.1s ease;
+}
+
 .download-icon {
   width: 60px;
   height: 60px;
