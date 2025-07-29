@@ -1,4 +1,4 @@
-const END_TIMESTAMP = Date.now() + 1000 * 60 * 60 * 24 * 3 + 1000 * 60 * 47 + 1000 * 15;
+const END_TIMESTAMP = Date.UTC(2025, 11, 25, 5, 0, 0); 
 
 const units = [
   { id: 'days', label: 'Days', max: 365 },
