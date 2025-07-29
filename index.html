@@ -11,14 +11,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <script>
-const toggleBtn = document.querySelector('.more-platforms-btn');
-const secondaryLinks = document.querySelectorAll('.download-link.secondary');
-
-toggleBtn.addEventListener('click', () => {
+function togglePlatforms(){
+const secondaryLinks = document.querySelectorAll('.secondary');
   secondaryLinks.forEach(link => {
     link.classList.toggle('hidden');
   });
-});
+}
   </script>
 </head>
 <body>
@@ -99,8 +97,8 @@ toggleBtn.addEventListener('click', () => {
       <i class="fas fa-caret-down"></i> More Platforms
     </button>
 
-    <div class="download-container secondary-platforms hidden" id="secondaryPlatforms">
-      <a class="download-link windows secondary" href="#">
+    <div class="download-container secondary-platforms" id="secondaryPlatforms">
+      <a class="download-link windows secondary hidden" href="#">
         <i class="fab fa-windows download-icon"></i>
         <span>Windows 32-bit</span>
       </a>
