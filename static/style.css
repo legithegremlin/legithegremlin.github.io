@@ -275,3 +275,45 @@ footer {
 .dropdown-container:hover .dropdown-content {
   display: block;
 }
+
+.more-platforms-wrapper {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.more-platforms-btn {
+  background-color: var(--highlight);
+  color: var(--primary);
+  padding: 0.75rem 1.5rem;
+  font-weight: bold;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 2px solid var(--highlight);
+  font-family: 'Orbitron', sans-serif;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.more-platforms-btn:hover {
+  background-color: var(--text);
+  border-color: var(--text);
+  transform: scale(1.05);
+}
+
+.secondary-platforms {
+  display: none;
+  margin-top: 1.5rem;
+  gap: 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.secondary-platforms.show {
+  display: flex;
+}
+
+.download-link.secondary {
+  font-size: 0.95rem;
+  padding: 1.2rem 1.8rem;
+  width: 220px;
+}
