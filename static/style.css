@@ -257,6 +257,16 @@ footer {
   transform: scale(1.05);
 }
 
-.hidden {
-  display: none !important;
+.secondary-platforms {
+  opacity: 0;
+  pointer-events: none;
+  max-height: 0;
+  overflow: hidden;
+  transition: opacity 0.5s ease, max-height 0.5s ease;
+}
+
+.secondary-platforms.visible {
+  opacity: 1;
+  pointer-events: auto;
+  max-height: 500px;
 }
