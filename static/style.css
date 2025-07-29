@@ -301,7 +301,7 @@ footer {
 }
 
 .secondary-platforms {
-  display: none;
+  display: none !important;
   margin-top: 1.5rem;
   gap: 2rem;
   justify-content: center;
