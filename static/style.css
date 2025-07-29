@@ -325,3 +325,7 @@ footer {
   padding: 1.2rem 1.8rem;
   width: 220px;
 }
+
+.hidden {
+  display: none !important;
+}
