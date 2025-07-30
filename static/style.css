@@ -79,8 +79,9 @@ h1, h2 {
   font-family: 'Orbitron', sans-serif;
 }
 
-.countdown-header h1{
+.countdown-header{
   font-family: 'Orbitron', sans-serif;
+  font-size: 4em;
   text-align: center;
 }
 
