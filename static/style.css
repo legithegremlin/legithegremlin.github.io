@@ -198,7 +198,6 @@ section h2 {
   padding: 2rem;
   border-radius: 8px;
   border: 1px solid var(--accent);
-  animation: fadeIn 0.5s ease forwards;
   opacity: 0;
   transform: translateY(20px);
 }
