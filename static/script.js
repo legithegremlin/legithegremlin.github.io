@@ -1,4 +1,4 @@
-function togglePlatforms() {
+function toggleArchs() {
   const secondaryContainer = document.getElementById('secondaryPlatforms');
   const btn = document.querySelector('.more-platforms-btn i');
   const isVisible = secondaryContainer.classList.toggle('visible');
