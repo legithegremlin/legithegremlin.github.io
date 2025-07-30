@@ -30,6 +30,7 @@ body {
   font-family: ui-monospace;
   color: #fff;
   margin-top: 5rem;
+  margin-bottom: 25rem;
 }
 
 #countdown .circle-wrapper {
@@ -182,8 +183,8 @@ section h2 {
 .features-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
-  margin-bottom:5rem;
+  gap: 3rem;
+  margin-bottom:15rem;
 }
 
 .feature-item {
