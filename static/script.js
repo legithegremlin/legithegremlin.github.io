@@ -79,4 +79,5 @@ function mainLoop(){
 }
 
 units.forEach(u => createCircle(u.id));
+mainLoop();
 setInterval(mainLoop, 1000);
