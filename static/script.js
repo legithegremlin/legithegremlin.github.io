@@ -77,6 +77,6 @@ function mainLoop(){
   updateCountdown();
   checkDone();
 }
+
 units.forEach(u => createCircle(u.id));
-updateCountdown();
 setInterval(mainLoop, 1000);
