@@ -64,3 +64,13 @@ function updateCountdown() {
 units.forEach(u => createCircle(u.id));
 updateCountdown();
 setInterval(updateCountdown, 1000);
+
+if(Date.now() >= Date.UTC(2025, 11, 25, 5, 0, 0)){
+  document.getElementById('download').style.display = block;
+  document.getElementById('countdown-header').style.display = none;
+  document.getElementById('countdown').style.display = none;
+}else{
+  document.getElementById('download').style.display = none;
+  document.getElementById('countdown-header').style.display = block;
+  document.getElementById('countdown').style.display = flex;
+}
