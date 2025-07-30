@@ -1,3 +1,17 @@
+function togglePlatforms() {
+  const secondaryContainer = document.getElementById('secondaryPlatforms');
+  const btn = document.querySelector('.more-platforms-btn i');
+  const isVisible = secondaryContainer.classList.toggle('visible');
+
+  if (isVisible) {
+    btn.classList.remove('fa-caret-down');
+    btn.classList.add('fa-caret-up');
+  } else {
+    btn.classList.remove('fa-caret-up');
+    btn.classList.add('fa-caret-down');
+  }
+}
+
 const END_TIMESTAMP = Date.UTC(2025, 11, 25, 5, 0, 0); 
 
 const units = [
