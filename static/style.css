@@ -6,6 +6,12 @@
   --highlight: #555555;
 }
 
+#download,
+#countdown,
+#countdown-header {
+  display: none;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
